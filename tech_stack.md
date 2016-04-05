@@ -16,37 +16,40 @@
         *不多做解释，1跟2是两个框架，在ES6还没有普及的中国，1更适合。2更像React，支持Native  Angular不支持IE8*
     - [Vue.js](http://cn.vuejs.org/)  
         *让人眼前一亮的轻量框架，主要解决的是ViewModel层的问题，但基本够用了，国产，不支持IE8*
-    - [Avalon](http://avalonjs.github.io/)
+    - [Avalon](http://avalonjs.github.io/)  
         *同样是轻量级国产框架，兼容大量浏览器甚至是IE6，缺点是生态圈和以上差距很大*
   - ### 模板引擎
-    - [Handlebars](http://handlebarsjs.com/)
-
+    - [Handlebars](http://handlebarsjs.com/)  
+    - [NodeTpl](http://www.nodetpl.com/cn/)  
   - ### 管理&服务
     - [Webpack](http://webpack.github.io/)  
         *webpack是近期最火的一款模块加载器兼打包构建工具，待研究*
     - [Grunt](http://www.gruntjs.net/)
-    - [NodeJs](http://nodejs.cn/)
+    - [Gulp](http://www.gulpjs.com.cn/)  
+    - [Browserify](http://browserify.org/)
+    - [Duo](http://duojs.org/)
+    - [NodeJs](http://nodejs.cn/)  
         *不解释，MEAN中的n*
-    - [Express](http://www.expressjs.com.cn/)
+    - [Express](http://www.expressjs.com.cn/)  
         *依赖Nodejs的开发框架，MEAN中的e*
-    - [RequireJs](http://www.requirejs.cn/)
+    - [RequireJs](http://www.requirejs.cn/)  
         *模块化预加载，遵循AMD*
-    - [SeaJs]()
+    - [SeaJs](http://seajs.org/docs/)  
         *模块化懒加载，遵循CommonJS，最主要是：国产*
   - ### 其他
     - [Bootstrap](http://www.bootcss.com/)
     - [Font awesome](http://www.bootcss.com/p/font-awesome/)  
         *矢量图标库，但图标数量并不多*
-    - [Iconfont](http://www.iconfont.cn/)
+    - [Iconfont](http://www.iconfont.cn/)  
         *阿里巴巴的矢量图标库，数量很多*
-    - [Less](http://lesscss.cn/)
+    - [Underscore](http://www.css88.com/doc/underscore/)
+    - [Less](http://lesscss.cn/)  
         *css预处理，传说中似乎更容易上手*
-    - [Sass](http://sass-lang.com/)
+    - [Sass](http://sass-lang.com/)  
         *同样是css预处理，功能比Less强大*
 
 - ## 2. 应用服务器
     - [Nginx]()
-
     - [Tomecat]()
 - ## 3. 应用服务端
 
