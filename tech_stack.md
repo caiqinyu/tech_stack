@@ -21,6 +21,10 @@
   - ### 模板引擎
     - [Handlebars](http://handlebarsjs.com/)  
     - [NodeTpl](http://www.nodetpl.com/cn/)  
+    - [Velocity](http://velocity.apache.org/)  
+        *基于Java的模板引擎，SpringMVC+Velocity+Bootstrap也是一种成熟的J2EE解决方案，本身也比较轻量*
+    - [Freemarker]()  
+        *功能强大，但是呢，应该是鲜少有人用，没Velocity轻量*
   - ### 管理&服务
     - [Webpack](http://webpack.github.io/)  
         *webpack是近期最火的一款模块加载器兼打包构建工具，待研究*
@@ -29,7 +33,7 @@
     - [Browserify](http://browserify.org/)
     - [Duo](http://duojs.org/)
     - [NodeJs](http://nodejs.cn/)  
-        *不解释，MEAN中的n*
+        *不解释，MEAN中的n，非阻塞IO，基于AMD，服务端利器*
     - [Express](http://www.expressjs.com.cn/)  
         *依赖Nodejs的开发框架，MEAN中的e*
     - [RequireJs](http://www.requirejs.cn/)  
@@ -47,14 +51,22 @@
         *css预处理，传说中似乎更容易上手*
     - [Sass](http://sass-lang.com/)  
         *同样是css预处理，功能比Less强大*
-
 - ## 2. 应用服务器
     - [Nginx]()
     - [Tomecat]()
 - ## 3. 应用服务端
-
+    - [Spring]()
+    - [SpringMVC]()
+    - [Ibatis&Mybatis]()
 - ## 4. 大数据&&nosql
-
+    - [Hadoop]()
+    - [Hbase]()
+    - [Kafka]()
+    - [Storm]()
+    - [Spark]()
+    - [Redis]()
+    - [Electric search]()
+    - [Solr]()
 - ## 5. 关系型数据库
     - [Mysql]()
     - [Oracle]()
