@@ -17,7 +17,7 @@
     - [Vue.js](http://cn.vuejs.org/)  
         *让人眼前一亮的轻量框架，主要解决的是ViewModel层的问题，但基本够用了，国产，不支持IE8*
     - [Avalon](http://avalonjs.github.io/)  
-        *同样是轻量级国产框架，兼容大量浏览器甚至是IE6，缺点是生态圈和以上差距很大*
+        *同样是轻量级国产框架，兼容大量浏览器甚至是IE6，缺点是生态圈和以上差距很大*  
   - ### 模板引擎
     - [Handlebars](http://handlebarsjs.com/)  
     - [NodeTpl](http://www.nodetpl.com/cn/)  
